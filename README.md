@@ -4,5 +4,5 @@
 
 ### Languages i use :
 
-<img height="50px" width="50px" src="https://boularbahismail.netlify.app/img/ai/jslogo.svg" />  &  <img height="50px" width="50px" src="https://boularbahismail.netlify.app/img/ai/python.svg" /> 
+<img height="50px" width="50px" src="https://boularbahismail.netlify.app/img/ai/jslogo.svg" />   &  <img height="50px" width="50px" src="https://boularbahismail.netlify.app/img/ai/python.svg" /> 
 
