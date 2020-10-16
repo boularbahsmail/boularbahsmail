@@ -4,11 +4,4 @@
 
 ### Dev tools i use :
 
-<a href="https://www.javascript.com/"><img height="50px" width="50px" src="https://boularbahismail.netlify.app/img/ai/jslogo.svg" title="JavaScript" /></a> 
-<a href="https://www.python.org/"><img height="50px" width="50px" src="https://boularbahismail.netlify.app/img/ai/python.svg" title="Python" /></a>  
-<a href="https://git-scm.com/"><img height="50px" width="50px" src="https://boularbahismail.netlify.app/img/ai/git.svg" title="Git" /></a> 
-<a href="https://nodejs.org/en/"><img height="50px" width="50px" src="https://boularbahismail.netlify.app/img/ai/nodejs-icon.svg" title="Node.JS" /></a>
-<a href="https://www.heroku.com/"><img height="50px" width="50px" src="https://cdn.iconscout.com/icon/free/png-512/heroku-5-569467.png" title="Heroku" /></a>
-<a href="https://www.netlify.com/"><img height="50px" width="50px" src="https://cdn.worldvectorlogo.com/logos/netlify.svg" title="Netlify" /></a>
-<a href="https://openclassrooms.com/fr/courses/19980-apprenez-a-programmer-en-c"><img height="50px" width="50px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" title="C programming language" /></a>
-<a href="https://vercel.com/"><img height="50px" width="50px" src="https://assets-global.website-files.com/5f217a8e6bc2c82a9d803089/5f217a8e6bc2c80d3780360e_CBm5_MB7_400x400.jpg" title="Vercel" /></a>
+<img height="50px" width="50px" src="https://boularbahismail.netlify.app/img/ai/jslogo.svg" title="JavaScript" /><img height="50px" width="50px" src="https://boularbahismail.netlify.app/img/ai/python.svg" title="Python" /><img height="50px" width="50px" src="https://boularbahismail.netlify.app/img/ai/git.svg" title="Git" /><img height="50px" width="50px" src="https://boularbahismail.netlify.app/img/ai/nodejs-icon.svg" title="Node.JS" /><img height="50px" width="50px" src="https://cdn.iconscout.com/icon/free/png-512/heroku-5-569467.png" title="Heroku" /><img height="50px" width="50px" src="https://cdn.worldvectorlogo.com/logos/netlify.svg" title="Netlify" /><img height="50px" width="50px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" title="C programming language" /><img height="50px" width="50px" src="https://assets-global.website-files.com/5f217a8e6bc2c82a9d803089/5f217a8e6bc2c80d3780360e_CBm5_MB7_400x400.jpg" title="Vercel" />
