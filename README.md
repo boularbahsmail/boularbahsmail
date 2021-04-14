@@ -1,4 +1,4 @@
-### Hey Devs 👋
+### Hey Devs <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" height="25px" width="25px" />
 <strong>I'm Ismail boularbah</strong>, 18 years old, CEO of <a href="https://icept.vercel.app">Icept</a>, cuber and Self-taught JavaScript Developer, I really like writing code, Especially in Javascript & Python, I enjoy projects that require me to use javaScript on the server-side using NodeJs and to use python to build artificial intelligence projects. I've been working on the web for around 2 years, I love to create, work on new projects and build responsive web apps & designs.
 ### Dev tools i use :
 
